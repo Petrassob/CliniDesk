@@ -1,0 +1,11 @@
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.AssemblyInfoInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.AssemblyInfo.cs
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.csproj.CoreCompileInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\bin\Debug\net8.0\CliniDesk.Entity.deps.json
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\bin\Debug\net8.0\CliniDesk.Entity.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\bin\Debug\net8.0\CliniDesk.Entity.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\refint\CliniDesk.Entity.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\CliniDesk.Entity.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Entity\obj\Debug\net8.0\ref\CliniDesk.Entity.dll

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CliniDesk.API/CliniDesk.API.csproj" />
+  <Project Path="CliniDesk.Business/CliniDesk.Business.csproj" Id="bc89ea62-f772-4c64-b485-0146ac54851d" />
+  <Project Path="CliniDesk.Data/CliniDesk.Data.csproj" />
+  <Project Path="CliniDesk.Entity/CliniDesk.Entity.csproj" Id="367b612c-0b40-44cb-9687-4629f91083a5" />
+  <Project Path="CliniDesk.Security/CliniDesk.Security.csproj" />
+  <Project Path="CliniDesk.UI/CliniDesk.UI.csproj" />
+</Solution>

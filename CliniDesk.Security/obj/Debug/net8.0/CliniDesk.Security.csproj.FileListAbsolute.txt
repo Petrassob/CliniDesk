@@ -1,0 +1,16 @@
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Secutity\obj\Debug\net8.0\CliniDesk.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Secutity\obj\Debug\net8.0\CliniDesk.Security.AssemblyInfoInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Secutity\obj\Debug\net8.0\CliniDesk.Security.AssemblyInfo.cs
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Secutity\obj\Debug\net8.0\CliniDesk.Security.csproj.CoreCompileInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\bin\Debug\net8.0\CliniDesk.Security.deps.json
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\bin\Debug\net8.0\CliniDesk.Security.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\bin\Debug\net8.0\CliniDesk.Security.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.csproj.AssemblyReference.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.AssemblyInfoInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.AssemblyInfo.cs
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.csproj.CoreCompileInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\refint\CliniDesk.Security.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\CliniDesk.Security.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.Security\obj\Debug\net8.0\ref\CliniDesk.Security.dll

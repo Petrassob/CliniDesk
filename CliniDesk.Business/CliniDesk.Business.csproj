@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CliniDesk.Data\CliniDesk.Data.csproj" />
+    <ProjectReference Include="..\CliniDesk.Entity\CliniDesk.Entity.csproj" />
+    <ProjectReference Include="..\CliniDesk.Security\CliniDesk.Security.csproj" />
+  </ItemGroup>
+
+</Project>

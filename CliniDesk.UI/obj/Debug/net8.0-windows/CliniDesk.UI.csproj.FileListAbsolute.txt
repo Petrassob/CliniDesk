@@ -1,0 +1,16 @@
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\bin\Debug\net8.0-windows\CliniDesk.UI.exe
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\bin\Debug\net8.0-windows\CliniDesk.UI.deps.json
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\bin\Debug\net8.0-windows\CliniDesk.UI.runtimeconfig.json
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\bin\Debug\net8.0-windows\CliniDesk.UI.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\bin\Debug\net8.0-windows\CliniDesk.UI.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.Form1.resources
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.csproj.GenerateResource.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.AssemblyInfoInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.AssemblyInfo.cs
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.csproj.CoreCompileInputs.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\refint\CliniDesk.UI.dll
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.pdb
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\CliniDesk.UI.genruntimeconfig.cache
+C:\Users\jusio\source\repos\CliniDesk\CliniDesk.UI\obj\Debug\net8.0-windows\ref\CliniDesk.UI.dll
