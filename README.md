@@ -1,8 +1,8 @@
-*CliniDesk*
+# CliniDesk
 
 Sistema de autenticación y gestión de usuarios para consultorios psicológicos desarrollado con .NET 8, ASP.NET Core Web API y arquitectura en capas.
 
-*Tecnologías utilizadas*
+## Tecnologías utilizadas
 - .NET 8
 - ASP.NET Core Web API
 - Entity Framework Core
@@ -12,7 +12,7 @@ Sistema de autenticación y gestión de usuarios para consultorios psicológicos
 - Swagger / OpenAPI
 - Dependency Injection
 
-*Arquitectura*
+## Arquitectura
 El proyecto está organizado utilizando arquitectura en capas para separar responsabilidades:
 
 - CliniDesk.API
@@ -22,7 +22,7 @@ El proyecto está organizado utilizando arquitectura en capas para separar respo
 - CliniDesk.Security
 - CliniDesk.UI
 
-*Funcionalidades implementadas*
+## Funcionalidades implementadas
 - Registro de usuarios
 - Login con autenticación JWT
 - Generación y validación de tokens
@@ -34,6 +34,6 @@ El proyecto está organizado utilizando arquitectura en capas para separar respo
 - Repositorios y servicios desacoplados mediante inyección de dependencias
 - Documentación y pruebas de endpoints con Swagger
 
-*Objetivo del proyecto*
+## Objetivo del proyecto
 
 El objetivo de CliniDesk es construir una base sólida para un sistema de gestión orientado a consultorios psicológicos, aplicando buenas prácticas de backend, seguridad y organización profesional del código.
