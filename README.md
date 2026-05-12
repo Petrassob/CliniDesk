@@ -35,4 +35,5 @@ El proyecto está organizado utilizando arquitectura en capas para separar respo
 - Documentación y pruebas de endpoints con Swagger
 
 *Objetivo del proyecto*
+
 El objetivo de CliniDesk es construir una base sólida para un sistema de gestión orientado a consultorios psicológicos, aplicando buenas prácticas de backend, seguridad y organización profesional del código.
