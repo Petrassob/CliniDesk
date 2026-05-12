@@ -2,7 +2,7 @@
 
 User authentication and management system for psychological practices developed with .NET 8 and ASP.NET Core Web API, applying layered architecture, JWT authentication, authorization via tokens, Entity Framework Core, SQL Server, dependency injection, secure password hashing with BCrypt, global middleware for centralized exception handling and endpoint documentation using Swagger/OpenAPI.
 
-## Tecnologías utilizadas
+## Technologies used
 - .NET 8
 - ASP.NET Core Web API
 - Entity Framework Core
@@ -12,8 +12,8 @@ User authentication and management system for psychological practices developed 
 - Swagger / OpenAPI
 - Dependency Injection
 
-## Arquitectura
-El proyecto está organizado utilizando arquitectura en capas para separar responsabilidades:
+## Architecture
+The project is organized using a layered architecture to separate responsibilities:
 
 - CliniDesk.API
 - CliniDesk.Business
@@ -22,18 +22,17 @@ El proyecto está organizado utilizando arquitectura en capas para separar respo
 - CliniDesk.Security
 - CliniDesk.UI
 
-## Funcionalidades implementadas
-- Registro de usuarios
-- Login con autenticación JWT
-- Generación y validación de tokens
-- Protección de endpoints mediante [Authorize]
-- Hash seguro de contraseñas con BCrypt
-- Middleware global para manejo centralizado de excepciones
-- Respuestas HTTP personalizadas
-- Persistencia de usuarios en SQL Server
-- Repositorios y servicios desacoplados mediante inyección de dependencias
-- Documentación y pruebas de endpoints con Swagger
+## Implemented functionalities
+- User registration
+- Login with JWT authentication
+- Token generation and validation
+- Endpoint protection using [Authorize]
+- Secure password hashing with BCrypt
+- Global middleware for centralized exception handling
+- Custom HTTP responses
+- User persistence in SQL Server
+- Decoupled repositories and services using dependency injection
+- Endpoint documentation and testing with Swagger
 
-## Objetivo del proyecto
-
-El objetivo de CliniDesk es construir una base sólida para un sistema de gestión orientado a consultorios psicológicos, aplicando buenas prácticas de backend, seguridad y organización profesional del código.
+## Project objective
+The goal of CliniDesk is to build a solid foundation for a management system geared towards psychological practices, applying good backend practices, security, and professional code organization.
